@@ -246,42 +246,132 @@
 },
 {
   "name": "IT",
-    "title": "Undefeated Dalmations",
-    "author": "Uri Lenart",
-    "price": 7773.999999999999
+  "title": "Undefeated Dalmations",
+  "author": "Uri Lenart",
+  "price": 7773.999999999999
 },
 {
   "name": "IT",
-    "title": "Garden Island",
-    "author": "Magy Stamatiou",
-    "price": 7767
+  "title": "Garden Island",
+  "author": "Magy Stamatiou",
+  "price": 7767
 }
+//v3.5: all as each of single doc
+{
+  "batch": [
+    {
+      "name": "FICTION",
+      "title": "Hunger Roof",
+      "author": "Georgi Facello",
+      "price": 3457
+    },
+    {
+      "name": "FICTION",
+      "title": "Frogmen Breaking",
+      "author": "Bezalel Simmel",
+      "price": 4336
+    },
+    {
+      "name": "SF",
+      "title": "Comforts Rush",
+      "author": "Ramzi Erde",
+      "price": 6265
+    },
+    {
+      "name": "SF",
+      "title": "Closer Bang",
+      "author": "Shahaf Famili",
+      "price": 9365
+    },
+    {
+      "name": "IT",
+      "title": "Undefeated Dalmations",
+      "author": "Uri Lenart",
+      "price": 7773.999999999999
+    },
+    {
+      "name": "IT",
+      "title": "Garden Island",
+      "author": "Magy Stamatiou",
+      "price": 7767
+    }
+  ]
+}
+
 
 
 //v4: again, all as each of single doc in a different way
 {
-  {"name": "FICTION"},
-  {"title": "Hunger Roof"},
-  {"author": "Georgi Facello"},
-  {"price": 3457},
-  {"name": "FICTION"},
-  {"title": "Frogmen Breaking"},
-  {"author": "Bezalel Simmel"},
-  {"price": 4336},
-  {"name": "SF"},
-  {"title": "Comforts Rush"},
-  {"author": "Ramzi Erde"},
-  {"price": 6265},
-  {"name": "SF"},
-  {"title": "Closer Bang"},
-  {"author": "Shahaf Famili"},
-  {"price": 9365},
-  {"name": "IT"},
-  {"title": "Undefeated Dalmations"},
-  {"author": "Uri Lenart"},
-  {"price": 7773.999999999999},
-  {"name": "IT"},
-  {"title": "Garden Island"},
-  {"author": "Magy Stamatiou"},
-  {"price": 7767}
+  {
+    "name": "FICTION"
+  },
+  {
+    "title": "Hunger Roof"
+  },
+  {
+    "author": "Georgi Facello"
+  },
+  {
+    "price": 3457
+  },
+  {
+    "name": "FICTION"
+  },
+  {
+    "title": "Frogmen Breaking"
+  },
+  {
+    "author": "Bezalel Simmel"
+  },
+  {
+    "price": 4336
+  },
+  {
+    "name": "SF"
+  },
+  {
+    "title": "Comforts Rush"
+  },
+  {
+    "author": "Ramzi Erde"
+  },
+  {
+    "price": 6265
+  },
+  {
+    "name": "SF"
+  },
+  {
+    "title": "Closer Bang"
+  },
+  {
+    "author": "Shahaf Famili"
+  },
+  {
+    "price": 9365
+  },
+  {
+    "name": "IT"
+  },
+  {
+    "title": "Undefeated Dalmations"
+  },
+  {
+    "author": "Uri Lenart"
+  },
+  {
+    "price": 7773.999999999999
+  },
+  {
+    "name": "IT"
+  },
+  {
+    "title": "Garden Island"
+  },
+  {
+    "author": "Magy Stamatiou"
+  },
+  {
+    "price": 7767
+  }
 }
