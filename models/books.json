@@ -1,0 +1,287 @@
+//V1: original xml of IWA_dev05 to json
+{
+  "section": [
+    {
+      "name": "FICTION",
+      "entree": [
+        {
+          "title": "Hunger Roof",
+          "author": "Georgi Facello",
+          "price": "34.57"
+        },
+        {
+          "title": "Frogmen Breaking",
+          "author": "Bezalel Simmel",
+          "price": "43.36"
+        }
+      ]
+    },
+    {
+      "name": "SF",
+      "entree": [
+        {
+          "title": "Comforts Rush",
+          "author": "Ramzi Erde",
+          "price": "62.65"
+        },
+        {
+          "title": "Closer Bang",
+          "author": "Shahaf Famili",
+          "price": "93.65"
+        }
+      ]
+    },
+    {
+      "name": "IT",
+      "entree": [
+        {
+          "title": "Undefeated Dalmations",
+          "author": "Uri Lenart",
+          "price": "77.74"
+        },
+        {
+          "title": "Garden Island",
+          "author": "Magy Stamatiou",
+          "price": "77.67"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "section": [
+    {
+      "name": "FICTION",
+      "entree": [
+        {
+          "id": "1cf3b3aa",
+          "title": "Hunger Roof",
+          "author": "Georgi Facello",
+          "price": "34.57"
+        },
+        {
+          "id": "552c5ac2",
+          "title": "Frogmen Breaking",
+          "author": "Bezalel Simmel",
+          "price": "43.36"
+        }
+      ]
+    },
+    {
+      "name": "SF",
+      "entree": [
+        {
+          "id": "ebc4b492",
+          "title": "Comforts Rush",
+          "author": "Ramzi Erde",
+          "price": "62.65"
+        },
+        {
+          "id": "24002144",
+          "title": "Closer Bang",
+          "author": "Shahaf Famili",
+          "price": "93.65"
+        }
+      ]
+    },
+    {
+      "name": "IT",
+      "entree": [
+        {
+          "id": "46923eb",
+          "title": "Undefeated Dalmations",
+          "author": "Uri Lenart",
+          "price": "77.74"
+        },
+        {
+          "id": "ea668577",
+          "title": "Garden Island",
+          "author": "Magy Stamatiou",
+          "price": "77.67"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+[
+  {
+    "_id": "6063b8c014de9946b50c1e9c",
+    "section": [
+      {
+        "_id": "6063b8c014de9946b50c1e9d",
+        "name": "FICTION",
+        "entree": [
+          {
+            "_id": "6063b8c014de9946b50c1e9e",
+            "title": "Hunger Roof",
+            "author": "Georgi Facello",
+            "price": 3457
+          },
+          {
+            "_id": "6063b8c014de9946b50c1e9f",
+            "title": "Frogmen Breaking",
+            "author": "Bezalel Simmel",
+            "price": 4336
+          }
+        ]
+      },
+      {
+        "_id": "6063b8c014de9946b50c1ea0",
+        "name": "SF",
+        "entree": [
+          {
+            "_id": "6063b8c014de9946b50c1ea1",
+            "title": "Comforts Rush",
+            "author": "Ramzi Erde",
+            "price": 6265
+          },
+          {
+            "_id": "6063b8c014de9946b50c1ea2",
+            "title": "Closer Bang",
+            "author": "Shahaf Famili",
+            "price": 9365
+          }
+        ]
+      },
+      {
+        "_id": "6063b8c014de9946b50c1ea3",
+        "name": "IT",
+        "entree": [
+          {
+            "_id": "6063b8c014de9946b50c1ea4",
+            "title": "Undefeated Dalmations",
+            "author": "Uri Lenart",
+            "price": 7773.999999999999
+          },
+          {
+            "_id": "6063b8c014de9946b50c1ea5",
+            "title": "Garden Island",
+            "author": "Magy Stamatiou",
+            "price": 7767
+          }
+        ]
+      }
+    ],
+    "createdAt": "2021-03-30T23:48:16.072Z",
+    "updatedAt": "2021-03-30T23:48:16.072Z",
+    "__v": 0
+  }
+]
+//v2: simplified version of v1 of book~Scchema of book~Scchema
+{
+  "section": {
+    "name": "FICTION",
+    "entree": [
+      {
+        "title": "Hunger Roof",
+        "author": "Georgi Facello",
+        "price": 3457
+      },
+      {
+        "title": "Frogmen Breaking",
+        "author": "Bezalel Simmel",
+        "price": 4336
+      }
+    ]
+  },
+  "section": {
+    "name": "SF",
+    "entree": [
+      {
+        "title": "Comforts Rush",
+        "author": "Ramzi Erde",
+        "price": 6265
+      },
+      {
+        "title": "Closer Bang",
+        "author": "Shahaf Famili",
+        "price": 9365
+      }
+    ]
+  },
+  "section": {
+    "name": "IT",
+    "entree": [
+      {
+        "title": "Undefeated Dalmations",
+        "author": "Uri Lenart",
+        "price": 7773.999999999999
+      },
+      {
+        "title": "Garden Island",
+        "author": "Magy Stamatiou",
+        "price": 7767
+      }
+    ]
+  }
+}
+//v3: all as each of single doc
+{
+  "name": "FICTION",
+  "title": "Hunger Roof",
+  "author": "Georgi Facello",
+  "price": 3457
+},
+{
+  "name": "FICTION",
+  "title": "Frogmen Breaking",
+  "author": "Bezalel Simmel",
+  "price": 4336
+},
+{
+  "name": "SF",
+  "title": "Comforts Rush",
+  "author": "Ramzi Erde",
+  "price": 6265
+},
+{
+  "name": "SF",
+  "title": "Closer Bang",
+  "author": "Shahaf Famili",
+  "price": 9365
+},
+{
+  "name": "IT",
+    "title": "Undefeated Dalmations",
+    "author": "Uri Lenart",
+    "price": 7773.999999999999
+},
+{
+  "name": "IT",
+    "title": "Garden Island",
+    "author": "Magy Stamatiou",
+    "price": 7767
+}
+
+
+//v4: again, all as each of single doc in a different way
+{
+  {"name": "FICTION"},
+  {"title": "Hunger Roof"},
+  {"author": "Georgi Facello"},
+  {"price": 3457},
+  {"name": "FICTION"},
+  {"title": "Frogmen Breaking"},
+  {"author": "Bezalel Simmel"},
+  {"price": 4336},
+  {"name": "SF"},
+  {"title": "Comforts Rush"},
+  {"author": "Ramzi Erde"},
+  {"price": 6265},
+  {"name": "SF"},
+  {"title": "Closer Bang"},
+  {"author": "Shahaf Famili"},
+  {"price": 9365},
+  {"name": "IT"},
+  {"title": "Undefeated Dalmations"},
+  {"author": "Uri Lenart"},
+  {"price": 7773.999999999999},
+  {"name": "IT"},
+  {"title": "Garden Island"},
+  {"author": "Magy Stamatiou"},
+  {"price": 7767}
+}
