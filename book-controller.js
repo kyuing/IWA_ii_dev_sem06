@@ -3,11 +3,12 @@ var Book = require('./models/book')
 exports.createBook = function (req, res) {
   if (req.body.batch) {
     Book.insertMany(req.body.batch, function (err) {
-      if (err)
-        res.status(400).json(err);
-      else
-        res.json(req.body);
-    });
+        if (err)
+          res.status(400).json(err);
+        else
+          //req.body.batch.price.toFixed(2);
+          res.json(req.body);
+      });
 
   } else {
     var newbook = new Book(req.body);

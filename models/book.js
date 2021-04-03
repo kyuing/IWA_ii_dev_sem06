@@ -4,6 +4,8 @@
  * https://stackoverflow.com/questions/52857105/how-to-post-data-to-json-file-using-postman-in-node-js
  * https://stackoverflow.com/questions/13304129/how-should-i-store-a-price-in-mongoose
  * https://stackoverflow.com/questions/13304129/how-should-i-store-a-price-in-mongoose/13305216#13305216
+ * https://www.npmjs.com/package/mongoose-currency
+ * https://stackoverflow.com/questions/50742268/why-mongoose-store-my-number-as-double
  */
 
 
@@ -18,8 +20,23 @@ var bookSchema = new mongoose.Schema({
   },
   title: {type: String},
   author: {type: String},
-  price: { type: Number, get: getPrice, set: setPrice }
+  price: { 
+    type: Number, 
+    required: true
+    // get: getPrice, 
+    // set: setPrice 
+  }
 }, { timestamps: true });
+
+/*************************************
+function getPrice(price) {
+  return (price / 100).toFixed(2);
+}
+
+function setPrice(price) {
+  return price * 100;
+}
+*************************************/
 
 //v2: simplified version of v1
 // var bookSchema = new mongoose.Schema({
@@ -98,12 +115,6 @@ var bookSchema = new mongoose.Schema({
 //   ]
 // }, { timestamps: true });
 
-function getPrice(num) {
-  return (num / 100).toFixed(2);
-}
 
-function setPrice(num) {
-  return num * 100;
-}
 
 module.exports = mongoose.model('Book', bookSchema);

@@ -1,0 +1,604 @@
+{
+  "batch": [
+    {
+      "name": "FICTION",
+      "title": "Hunger Roof",
+      "author": "Georgi Facello",
+      "price": 5.77
+    },
+    {
+      "name": "FICTION",
+      "title": "Frogmen Breaking",
+      "author": "Bezalel Simmel",
+      "price": 58.02
+    },
+    {
+      "name": "FICTION",
+      "title": "Outbreak Divine",
+      "author": "Parto Bamford",
+      "price": 12.65
+    },
+    {
+      "name": "FICTION",
+      "title": "Young Language",
+      "author": "Chirstian Koblick",
+      "price": 25.44
+    },
+    {
+      "name": "FICTION",
+      "title": "Stampede Disturbing",
+      "author": "Kyoichi Maliniak",
+      "price": 27
+    },
+    {
+      "name": "FICTION",
+      "title": "World Leathernecks",
+      "author": "Anneke Preusig",
+      "price": 32.79
+    },
+    {
+      "name": "FICTION",
+      "title": "Goodfellas Salute",
+      "author": "Tzvetan Zielinski",
+      "price": 56.39
+    },
+    {
+      "name": "FICTION",
+      "title": "Core Suit",
+      "author": "Saniya Kalloufi",
+      "price": 28.06
+    },
+    {
+      "name": "FICTION",
+      "title": "Knock Warlock",
+      "author": "Sumant Peac",
+      "price": 87.94
+    },
+    {
+      "name": "FICTION",
+      "title": "Dangerous Uptown",
+      "author": "Duangkaew Piveteau",
+      "price": 5.36
+    },
+    {
+      "name": "FICTION",
+      "title": "Chocolate Duck",
+      "author": "Mary Sluis",
+      "price": 58.78
+    },
+    {
+      "name": "FICTION",
+      "title": "Heavyweights Beast",
+      "author": "Patricio Bridgland",
+      "price": 39.2
+    },
+    {
+      "name": "FICTION",
+      "title": "Trap Guys",
+      "author": "Eberhardt Terkki",
+      "price": 44.48
+    },
+    {
+      "name": "FICTION",
+      "title": "Grail Frankenstein",
+      "author": "Berni Genin",
+      "price": 100
+    },
+    {
+      "name": "FICTION",
+      "title": "Wisdom Worker",
+      "author": "Guoxiang Nooteboom",
+      "price": 5.39
+    },
+    {
+      "name": "FICTION",
+      "title": "Divorce Shining",
+      "author": "Kazuhito Cappelletti",
+      "price": 76.02
+    },
+    {
+      "name": "FICTION",
+      "title": "Groove Fiction",
+      "author": "Cristinel Bouloucos",
+      "price": 59.18
+    },
+    {
+      "name": "FICTION",
+      "title": "Pet Haunting",
+      "author": "Kazuhide Peha",
+      "price": 14.9
+    },
+    {
+      "name": "FICTION",
+      "title": "Network Peak",
+      "author": "Lillian Haddadi",
+      "price": 98
+    },
+    {
+      "name": "FICTION",
+      "title": "Forever Candidate",
+      "author": "Mayuko Warwick",
+      "price": 72.42
+    },
+    {
+      "name": "FICTION",
+      "title": "Comforts Rush",
+      "author": "Ramzi Erde",
+      "price": 100.7
+    },
+    {
+      "name": "FICTION",
+      "title": "Closer Bang",
+      "author": "Shahaf Famili",
+      "price": 11.78
+    },
+    {
+      "name": "FICTION",
+      "title": "Titans Jerk",
+      "author": "Bojan Montemayor",
+      "price": 24.61
+    },
+    {
+      "name": "FICTION",
+      "title": "Menagerie Rushmore",
+      "author": "Suzette Pettey",
+      "price": 6.36
+    },
+    {
+      "name": "FICTION",
+      "title": "Sweet Brotherhood",
+      "author": "Prasadram Heyers",
+      "price": 49.19
+    },
+    {
+      "name": "FICTION",
+      "title": "Graffiti Love",
+      "author": "Yongqiao Berztiss",
+      "price": 81.74
+    },
+    {
+      "name": "FICTION",
+      "title": "Chariots Conspiracy",
+      "author": "Divier Reistad",
+      "price": 20.83
+    },
+    {
+      "name": "FICTION",
+      "title": "Lights Deer",
+      "author": "Domenick Tempesti",
+      "price": 55.42
+    },
+    {
+      "name": "FICTION",
+      "title": "Ridgemont Submarine",
+      "author": "Otmar Herbst",
+      "price": 15.89
+    },
+    {
+      "name": "FICTION",
+      "title": "Behavior Runaway",
+      "author": "Elvis Demeyer",
+      "price": 73.42
+    },
+    {
+      "name": "FICTION",
+      "title": "Crooked Frogmen",
+      "author": "Karsten Joslin",
+      "price": 68.66
+    },
+    {
+      "name": "FICTION",
+      "title": "Connecticut Tramp",
+      "author": "Jeong Reistad",
+      "price": 48.39
+    },
+    {
+      "name": "FICTION",
+      "title": "Won Dares",
+      "author": "Arif Merlo",
+      "price": 28.03
+    },
+    {
+      "name": "FICTION",
+      "title": "Mob Duffel",
+      "author": "Bader Swan",
+      "price": 37.92
+    },
+    {
+      "name": "FICTION",
+      "title": "Waterfront Deliverance",
+      "author": "Alain Chappelet",
+      "price": 82.96
+    },
+    {
+      "name": "FICTION",
+      "title": "Reunion Witches",
+      "author": "Adamantios Portugali",
+      "price": 10.82
+    },
+    {
+      "name": "FICTION",
+      "title": "Gilmore Boiled",
+      "author": "Pradeep Makrucki",
+      "price": 7.14
+    },
+    {
+      "name": "FICTION",
+      "title": "Vertigo Northwest",
+      "author": "Huan Lortz",
+      "price": 20.55
+    },
+    {
+      "name": "FICTION",
+      "title": "Pulp Beverly",
+      "author": "Alejandro Brender",
+      "price": 51.17
+    },
+    {
+      "name": "FICTION",
+      "title": "Ending Crowds",
+      "author": "Weiyi Meriste",
+      "price": 86.99
+    },
+    {
+      "name": "SF",
+      "title": "Undefeated Dalmations",
+      "author": "Uri Lenart",
+      "price": 86.29
+    },
+    {
+      "name": "SF",
+      "title": "Garden Island",
+      "author": "Magy Stamatiou",
+      "price": 91.25
+    },
+    {
+      "name": "SF",
+      "title": "Noon Papi",
+      "author": "Yishay Tzvieli",
+      "price": 81.64
+    },
+    {
+      "name": "SF",
+      "title": "Seven Swarm",
+      "author": "Mingsen Casley",
+      "price": 81.09
+    },
+    {
+      "name": "SF",
+      "title": "Requiem Tycoon",
+      "author": "Moss Shanbhogue",
+      "price": 70.48
+    },
+    {
+      "name": "SF",
+      "title": "Musketeers Wait",
+      "author": "Lucien Rosenbaum",
+      "price": 43.6
+    },
+    {
+      "name": "SF",
+      "title": "Hunchback Impossible",
+      "author": "Zvonko Nyanchama",
+      "price": 37.14
+    },
+    {
+      "name": "SF",
+      "title": "Bingo Talented",
+      "author": "Florian Syrotiuk",
+      "price": 54.57
+    },
+    {
+      "name": "SF",
+      "title": "Money Harold",
+      "author": "Basil Tramer",
+      "price": 47.88
+    },
+    {
+      "name": "SF",
+      "title": "Run Pacific",
+      "author": "Yinghua Dredge",
+      "price": 47.97
+    },
+    {
+      "name": "SF",
+      "title": "Coneheads Smoochy",
+      "author": "Hidefumi Caine",
+      "price": 50.42
+    },
+    {
+      "name": "SF",
+      "title": "Sugar Wonka",
+      "author": "Heping Nitsch",
+      "price": 7.2
+    },
+    {
+      "name": "SF",
+      "title": "Terminator Club",
+      "author": "Sanjiv Zschoche",
+      "price": 92.33
+    },
+    {
+      "name": "SF",
+      "title": "Fantasy Troopers",
+      "author": "Mayumi Schueller",
+      "price": 76.24
+    },
+    {
+      "name": "SF",
+      "title": "Name Detective",
+      "author": "Georgy Dredge",
+      "price": 17.31
+    },
+    {
+      "name": "SF",
+      "title": "Gunfighter Mussolini",
+      "author": "Brendon Bernini",
+      "price": 77.5
+    },
+    {
+      "name": "SF",
+      "title": "Wind Phantom",
+      "author": "Ebbe Callaway",
+      "price": 62.95
+    },
+    {
+      "name": "SF",
+      "title": "Airplane Sierra",
+      "author": "Berhard McFarlin",
+      "price": 81.57
+    },
+    {
+      "name": "SF",
+      "title": "Rugrats Shakespeare",
+      "author": "Alejandro McAlpine",
+      "price": 45.53
+    },
+    {
+      "name": "SF",
+      "title": "Date Speed",
+      "author": "Breannda Billingsley",
+      "price": 62.78
+    },
+    {
+      "name": "SF",
+      "title": "Translation Summer",
+      "author": "Tse Herber",
+      "price": 45.64
+    },
+    {
+      "name": "SF",
+      "title": "Hamlet Wisdom",
+      "author": "Anoosh Peyn",
+      "price": 30.14
+    },
+    {
+      "name": "SF",
+      "title": "Disciple Mother",
+      "author": "Gino Leonhardt",
+      "price": 17.92
+    },
+    {
+      "name": "SF",
+      "title": "Tracy Cider",
+      "author": "Udi Jansch",
+      "price": 89.13
+    },
+    {
+      "name": "SF",
+      "title": "Strictly Scarface",
+      "author": "Satosi Awdeh",
+      "price": 12.2
+    },
+    {
+      "name": "SF",
+      "title": "Anthem Luke",
+      "author": "Kwee Schusler",
+      "price": 78.15
+    },
+    {
+      "name": "SF",
+      "title": "Home Pity",
+      "author": "Claudi Stavenow",
+      "price": 77.3
+    },
+    {
+      "name": "SF",
+      "title": "Suit Walls",
+      "author": "Charlene Brattka",
+      "price": 96.2
+    },
+    {
+      "name": "SF",
+      "title": "Memento Zoolander",
+      "author": "Margareta Bierman",
+      "price": 34.3
+    },
+    {
+      "name": "SF",
+      "title": "Jumping Wrath",
+      "author": "Reuven Garigliano",
+      "price": 34.57
+    },
+    {
+      "name": "IT",
+      "title": "Arabia Dogma",
+      "author": "Hisao Lipner",
+      "price": 75.12
+    },
+    {
+      "name": "IT",
+      "title": "Born Spinal",
+      "author": "Hironoby Sidou",
+      "price": 85.99
+    },
+    {
+      "name": "IT",
+      "title": "Stepmom Dream",
+      "author": "Shir McClurg",
+      "price": 90.08
+    },
+    {
+      "name": "IT",
+      "title": "Miracle Virtual",
+      "author": "Mokhtar Bernatsky",
+      "price": 84.74
+    },
+    {
+      "name": "IT",
+      "title": "Youth Kick",
+      "author": "Gao Dolinsky",
+      "price": 15.96
+    },
+    {
+      "name": "IT",
+      "title": "Blindness Gun",
+      "author": "Erez Ritzmann",
+      "price": 76.92
+    },
+    {
+      "name": "IT",
+      "title": "Exorcist Sting",
+      "author": "Mona Azuma",
+      "price": 68.89
+    },
+    {
+      "name": "IT",
+      "title": "Destiny Saturday",
+      "author": "Danel Mondadori",
+      "price": 50.98
+    },
+    {
+      "name": "IT",
+      "title": "Magic Mallrats",
+      "author": "Kshitij Gils",
+      "price": 11.54
+    },
+    {
+      "name": "IT",
+      "title": "Thief Pelican",
+      "author": "Premal Baek",
+      "price": 19.37
+    },
+    {
+      "name": "IT",
+      "title": "Instinct Airport",
+      "author": "Zhongwei Rosen",
+      "price": 62.07
+    },
+    {
+      "name": "IT",
+      "title": "Darkness War",
+      "author": "Parviz Lortz",
+      "price": 90.88
+    },
+    {
+      "name": "IT",
+      "title": "Pickup Driving",
+      "author": "Vishv Zockler",
+      "price": 93.27
+    },
+    {
+      "name": "IT",
+      "title": "Panky Submarine",
+      "author": "Tuval Kalloufi",
+      "price": 94.44
+    },
+    {
+      "name": "IT",
+      "title": "Congeniality Quest",
+      "author": "Kenroku Malabarba",
+      "price": 57.45
+    },
+    {
+      "name": "IT",
+      "title": "Horror Reign",
+      "author": "Somnath Foote",
+      "price": 81.23
+    },
+    {
+      "name": "IT",
+      "title": "Stagecoach Armageddon",
+      "author": "Xinglin Eugenio",
+      "price": 32.3
+    },
+    {
+      "name": "IT",
+      "title": "Kill Brotherhood",
+      "author": "Jungsoon Syrzycki",
+      "price": 66.82
+    },
+    {
+      "name": "IT",
+      "title": "Ferris Mother",
+      "author": "Sudharsan Flasterstein",
+      "price": 91.69
+    },
+    {
+      "name": "IT",
+      "title": "Twisted Pirates",
+      "author": "Kendra Hofting",
+      "price": 85.94
+    },
+    {
+      "name": "IT",
+      "title": "Fish Opus",
+      "author": "Amabile Gomatam",
+      "price": 53.29
+    },
+    {
+      "name": "IT",
+      "title": "Dumbo Lust",
+      "author": "Valdiodio Niizuma",
+      "price": 86.36
+    },
+    {
+      "name": "IT",
+      "title": "Usual Untouchables",
+      "author": "Sailaja Desikan",
+      "price": 38.41
+    },
+    {
+      "name": "IT",
+      "title": "Camelot Vacation",
+      "author": "Arumugam Ossenbruggen",
+      "price": 99.54
+    },
+    {
+      "name": "IT",
+      "title": "Jerk Paycheck",
+      "author": "Hilari Morton",
+      "price": 13.91
+    },
+    {
+      "name": "IT",
+      "title": "Microcosmos Paradise",
+      "author": "Jayson Mandell",
+      "price": 35.76
+    },
+    {
+      "name": "IT",
+      "title": "Mallrats United",
+      "author": "Remzi Waschkowski",
+      "price": 8.28
+    },
+    {
+      "name": "IT",
+      "title": "Princess Giant",
+      "author": "Sreekrishna Servieres",
+      "price": 14.39
+    },
+    {
+      "name": "IT",
+      "title": "Hotel Happiness",
+      "author": "Valter Sullins",
+      "price": 21.71
+    },
+    {
+      "name": "IT",
+      "title": "Odds Boogie",
+      "author": "Hironobu Haraldson",
+      "price": 75.75
+    }
+  ]
+}

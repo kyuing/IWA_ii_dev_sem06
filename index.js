@@ -48,9 +48,21 @@ app.listen(port, function(err){
     console.log('Listening on port: ' + port);
 });
 
+//mongodb atlas connection
+//https://www.digitalocean.com/community/tutorials/nodejs-crud-operations-mongoose-mongodb-atlas
+//mongodb+srv://<username>:<password>@"<clustername>.mongodb.net/<dbnameToCreateOrUse>?retryWrites=true&w=majority
+const dbURI = "mongodb+srv://<username>:<password>@"<clustername>.mongodb.net/<dbnameToCreateOrUse>?retryWrites=true&w=majority";
+mongoose.connect(dbURI, { 
+  useNewUrlParser: true, 
+  useFindAndModify: false,
+  useUnifiedTopology: true 
+}).then((result) => console.log('connected to db')).catch((err) => console.log(err));
+
+/***************************************************************************
 //mongodb connection
 const dbURI = "mongodb://localhost/test";
 //const dbURI = "mongodb://localhost:27017/test";
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
         .then((result) => console.log('connected to db'))
         .catch((err) => console.log(err));
+****************************************************************************/
